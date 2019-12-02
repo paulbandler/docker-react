@@ -10,6 +10,9 @@ function App() {
         <p>
           Hi There ho ho ho - new 
         </p>
+        <p className="App-intro">
+          I was changed on the feature branch!!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
